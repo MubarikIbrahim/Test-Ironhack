@@ -1,2 +1,2 @@
-# Test-Ironhack
+# test-ironhack
 Pre-exercise 
